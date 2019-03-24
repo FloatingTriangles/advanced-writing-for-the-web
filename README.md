@@ -2,7 +2,9 @@
 
 ## Technical Communication Work
 
-### 1. [Magazine Page](advanced-writing-for-the-web/Ben_Bait_Shop_Variation.pdf)
+### 1. Magazine Page
+        advanced-writing-for-the-web/International_Contexts_DistancePortal_Mobile_Website_Redesign_Project_Portfolio copy.pdf
+      
        
 
 ### 2. South Africa Market Study
