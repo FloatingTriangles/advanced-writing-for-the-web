@@ -2,7 +2,8 @@
 
 ## Technical Communication Work
 
-### 1. Magazine Page 
+### 1. [Magazine Page](advanced-writing-for-the-web/Ben_Bait_Shop_Variation.pdf)
+       
 
 ### 2. South Africa Market Study
 
