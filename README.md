@@ -1,3 +1,21 @@
+# Academic Portfolio
+
+## Technical Communication Work
+
+### 1. Magazine Page 
+
+### 2. South Africa Market Study
+
+### 3. Mobile Website Redesign
+
+### 4. Literature Review Excerpt
+
+## Editing Examples
+
+## Online Writing
+
+## Creative Academic Work
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FloatingTriangles/advanced-writing-for-the-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
