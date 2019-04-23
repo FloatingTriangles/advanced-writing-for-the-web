@@ -11,7 +11,7 @@
 <p><b>Strengths:</b> My writing is clear. The pictures are relevant, and there is enough space separating pictures and text. The data I found supports my calling for more online classes in South Africa. The important ramifications of apartheid government in the present day are brought to the forefront.</p>
 <p><b>Weaknesses:</b> The pictures sometimes push my text to the edges of the document, which is awkward to read. Headings being the same size as other text means users can’t find them as easily as they could.</p>
 <p><b>What I'd Do Differently:</b> I would make pictures big enough to stretch across the length of the document. That would make them easier to see, and keep pictures and text more separated.</p>
-<img src="Market_Study_Web_Page_1.jpg" alt="Market study of South African online classes" style="width:600px;height:800px;">
+<img src="Market_Study_Web_Page_1.jpg" alt="Market study of South African online classes" style="width:300px;height:400px;">
 <h3>Mobile Site Redesign</h3>
 <p><b>Context:</b> Redesigning a mobile website’s layout for my Technical Communication in International Contexts class. I modified Distance Learning Portal’s mobile website, where students around the world could find online courses.</p>
 <p><b>Strengths:</b> As the mobile website was a worldwide service, my redesign took out excess language, which made it clearer to understand. To add more color, I made the discipline boxes blue. I also added an additional search bar, where students could find out what people from their country had to say about the service.</p>
