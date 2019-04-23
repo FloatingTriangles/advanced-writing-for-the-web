@@ -12,7 +12,6 @@
 <p><b>Weaknesses:</b> The pictures sometimes push my text to the edges of the document, which is awkward to read. Headings being the same size as other text means users can’t find them as easily as they could.</p>
 <p><b>What I'd Do Differently:</b> I would make pictures big enough to stretch across the length of the document. That would make them easier to see, and keep pictures and text more separated.</p>
 <img src="Market_Study_Web_Page_1.jpg" alt="Market study of South African online classes" style="width:600px;height:800px;">
-<img src="Market_Study_Web_Page_2.jpg" alt="Market study of South African online classes" style="width:600px;height:800px;">
 <h3>Mobile Site Redesign</h3>
 <p><b>Context:</b> Redesigning a mobile website’s layout for my Technical Communication in International Contexts class. I modified Distance Learning Portal’s mobile website, where students around the world could find online courses.</p>
 <p><b>Strengths:</b> As the mobile website was a worldwide service, my redesign took out excess language, which made it clearer to understand. To add more color, I made the discipline boxes blue. I also added an additional search bar, where students could find out what people from their country had to say about the service.</p>
@@ -26,7 +25,4 @@
 The document is longer than it needs to be. The section on the value of creativity in the technical communication classroom dwarves the other main sections.</p>
 <p><b>What I'd Do Differently:</b> 
 This piece is longer than it needs to be, and could do with another round of revision. Revising would trim down the overlong section detailing the value of creativity in the technical communication classroom.</p>
-<img src="Literature_Review_Web_Page_2.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
-<img src="Literature_Review_Web_Page_3.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
-<img src="Literature_Review_Web_Page_4.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
-<img src="Literature_Review_Web_Page_5.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
+<img src="Literature_Review_Web_Page_1.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
