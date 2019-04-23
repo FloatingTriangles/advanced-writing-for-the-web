@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>CSS Template</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-</style>
-</head>
 <body>
 <h1>Sam Benson's Technical Communication Portfolio</h1>
 <h3>Magazine Redesign</h3>
