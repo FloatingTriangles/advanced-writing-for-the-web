@@ -1,55 +1,53 @@
-# Academic Portfolio
-
-## Technical Communication Work
-
-### 1. Magazine Page
-
-### 2. South Africa Market Study
-
-### 3. Mobile Website Redesign
-
-### 4. Literature Review Excerpt
-
-## Editing Examples
-
-## Online Writing
-
-## Creative Academic Work
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/FloatingTriangles/advanced-writing-for-the-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FloatingTriangles/advanced-writing-for-the-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+</style>
+</head>
+<body>
+<h1>Sam Benson's Portfolio</h1>
+<p>bens0435@umn.edu</p>
+<h2>Technical Communication Academic Work</h2>
+<h3>Magazine Redesign</h3>
+<p><b>Context:</b> Designing a magazine page for my Document and Information Design class. The document’s information was modified from an existing website.</p>
+<p><b>Strengths:</b> The website’s layout had pictures and text changing positions, so I moved all the pictures over to the right side of the document for consistency. I rewrote the passages, getting rid of the repetition, unnecessary asides, and grammatical errors.</p>
+<p><b>Weaknesses:</b> The ad is cut off, and does not reach the edge of the page. Important information on store products could get lost in the middle of the paragraph.</p>
+<p><bold>What I'd Do Differently:</b> I would create a more colorful style to draw readers’ attention more. The rhetorical question-and-answer in the last paragraph interrupts the flow of store product information, and should be deleted.</p>
+<img src="Images/Ben_Bait_Shop_Variation_Web.jpg" alt="Local magazine page of fishing shop" style="width:600px;height:800px;">
+<h3>Market Study</h3>
+<p><b>Context:</b> Analyzing South Africa’s market for online classes, using Geert Hofstede’s cultural dimensions.</p>
+<p><b>Strengths:</b> My writing is clear. The pictures are relevant, and there is enough space separating pictures and text. The data I found supports my calling for more online classes in South Africa. The important ramifications of apartheid government in the present day are brought to the forefront.</p>
+<p><b>Weaknesses:</b> The pictures sometimes push my text to the edges of the document, which is awkward to read. Headings being the same size as other text means users can’t find them as easily as they could.</p>
+<p><b>What I'd Do Differently:</b> I would make pictures big enough to stretch across the length of the document. That would make them easier to see, and keep pictures and text more separated.</p>
+<img src="Images/Market_Study_Web_Page_1.jpg" alt="Market study of South African online classes" style="width:600px;height:800px;">
+<img src="Images/Market_Study_Web_Page_2.jpg" alt="Market study of South African online classes" style="width:600px;height:800px;">
+<h3>Mobile Site Redesign</h3>
+<p><b>Context:</b> Redesigning a mobile website’s layout for my Technical Communication in International Contexts class. I modified Distance Learning Portal’s mobile website, where students around the world could find online courses.</p>
+<p><b>Strengths:</b> As the mobile website was a worldwide service, my redesign took out excess language, which made it clearer to understand. To add more color, I made the discipline boxes blue. I also added an additional search bar, where students could find out what people from their country had to say about the service.</p>
+<p><b>Weaknesses:</b> Overall design limited by inexperience in Adobe InDesign. The university logos are blurry and unprofessional.</p>
+<p><b>What I'd Do Differently:</b> In some areas, this redesign did not go far enough. I did not design my own icons, even though a few of them were not very clear, so I would adjust the more confusing icons to be clearer for a global audience. I would also fix the blurry logos.</p>
+<img src="Images/Mobile_Website_Redesign_Web.jpg" alt="Mobile site redesign of website to find international online classes" style="width:600px;height:2000px;">
+<h3>Literature Review</h3>
+<p><b>Context:</b> Reviewing the literature of creativity’s value in technical communication. This literature review focuses on three contexts: the value in text, the value in the classroom, and the value in the workplace.</p>
+<p><b>Strengths:</b> The document constructs a coherent narrative using sources across three decades, tracing the foundation of creativity becoming more focused on in technical communication to the creative barriers employees face today. It connects its sources by putting them into a conversation, which highlights the gap between the academy and the workplace.</p>
+<p><b>Weaknesses:</b> 
+The document is longer than it needs to be. The section on the value of creativity in the technical communication classroom dwarves the other main sections.</p>
+<p><b>What I'd Do Differently:</b> 
+This piece is longer than it needs to be, and could do with another round of revision. Revising would trim down the overlong section detailing the value of creativity in the technical communication classroom.</p>
+<img src="Images/Literature_Review_Web_Page_2.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
+<img src="Images/Literature_Review_Web_Page_3.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
+<img src="Images/Literature_Review_Web_Page_4.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
+<img src="Images/Literature_Review_Web_Page_5.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
+<h2>Editing Work</h2>
+<h3>
+<h2>Creative Academic Work</h2>
+<h3>Medieval Poem on the Plague</h3>
+<p>Context:</p>
+<p>Strengths:</p>
+<p>Weaknesses:</p>
+<p>What I'd Do Differently:</p>
+</body>
+</html>
