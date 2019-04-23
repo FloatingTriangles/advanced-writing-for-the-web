@@ -8,9 +8,7 @@
 </style>
 </head>
 <body>
-<h1>Sam Benson's Portfolio</h1>
-<p>bens0435@umn.edu</p>
-<h2>Technical Communication Academic Work</h2>
+<h1>Sam Benson's Technical Communication Portfolio</h1>
 <h3>Magazine Redesign</h3>
 <p><b>Context:</b> Designing a magazine page for my Document and Information Design class. The document’s information was modified from an existing website.</p>
 <p><b>Strengths:</b> The website’s layout had pictures and text changing positions, so I moved all the pictures over to the right side of the document for consistency. I rewrote the passages, getting rid of the repetition, unnecessary asides, and grammatical errors.</p>
