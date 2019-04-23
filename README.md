@@ -30,5 +30,3 @@ This piece is longer than it needs to be, and could do with another round of rev
 <img src="Images/Literature_Review_Web_Page_3.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
 <img src="Images/Literature_Review_Web_Page_4.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
 <img src="Images/Literature_Review_Web_Page_5.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
-</body>
-</html>
