@@ -30,13 +30,5 @@ This piece is longer than it needs to be, and could do with another round of rev
 <img src="Images/Literature_Review_Web_Page_3.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
 <img src="Images/Literature_Review_Web_Page_4.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
 <img src="Images/Literature_Review_Web_Page_5.jpg" alt="Literature review of creativity in technical communication" style="width:600px;height:800px;">
-<h2>Editing Work</h2>
-<h3>
-<h2>Creative Academic Work</h2>
-<h3>Medieval Poem on the Plague</h3>
-<p>Context:</p>
-<p>Strengths:</p>
-<p>Weaknesses:</p>
-<p>What I'd Do Differently:</p>
 </body>
 </html>
