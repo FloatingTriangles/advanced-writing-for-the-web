@@ -4,7 +4,7 @@
 <p><b>Context:</b> Designing a magazine page for my Document and Information Design class. The document’s information was modified from an existing website.</p>
 <p><b>Strengths:</b> The website’s layout had pictures and text changing positions, so I moved all the pictures over to the right side of the document for consistency. I rewrote the passages, getting rid of the repetition, unnecessary asides, and grammatical errors.</p>
 <p><b>Weaknesses:</b> The ad is cut off, and does not reach the edge of the page. Important information on store products could get lost in the middle of the paragraph.</p>
-<p><bold>What I'd Do Differently:</b> I would create a more colorful style to draw readers’ attention more. The rhetorical question-and-answer in the last paragraph interrupts the flow of store product information, and should be deleted.</p>
+<p><b>What I'd Do Differently:</b> I would create a more colorful style to draw readers’ attention more. The rhetorical question-and-answer in the last paragraph interrupts the flow of store product information, and should be deleted.</p>
 <img src="Ben_Bait_Shop_Variation_Web.jpg" alt="Local magazine page of fishing shop" style="width:600px;height:800px;">
 <h3>Market Study</h3>
 <p><b>Context:</b> Analyzing South Africa’s market for online classes, using Geert Hofstede’s cultural dimensions.</p>
