@@ -5,7 +5,7 @@
 <p><b>Strengths:</b> The website’s layout had pictures and text changing positions, so I moved all the pictures over to the right side of the document for consistency. I rewrote the passages, getting rid of the repetition, unnecessary asides, and grammatical errors.</p>
 <p><b>Weaknesses:</b> The ad is cut off, and does not reach the edge of the page. Important information on store products could get lost in the middle of the paragraph.</p>
 <p><b>What I'd Do Differently:</b> I would create a more colorful style to draw readers’ attention more. The rhetorical question-and-answer in the last paragraph interrupts the flow of store product information, and should be deleted.</p>
-<img src="Ben_Bait_Shop_Variation_Web.jpg" alt="Local magazine page of fishing shop" style="width:300px;height:400px;">
+<img src="Ben_Bait_Shop_Variation_Web.jpg" target="Ben_Bait_Shop_Variation.pdf" alt="Local magazine page of fishing shop" style="width:300px;height:400px;">
 <h3>Market Study</h3>
 <p><b>Context:</b> Analyzing South Africa’s market for online classes, using Geert Hofstede’s cultural dimensions.</p>
 <p><b>Strengths:</b> My writing is clear. The pictures are relevant, and there is enough space separating pictures and text. The data I found supports my calling for more online classes in South Africa. The important ramifications of apartheid government in the present day are brought to the forefront.</p>
