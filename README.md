@@ -1,5 +1,6 @@
 <body>
 <h1>Sam Benson's Technical Communication Portfolio</h1>
+<hr>
 <h3>Magazine Redesign</h3>
 <p><b>Context:</b> Designing a magazine page for my Document and Information Design class. The document’s information was modified from an existing website.</p>
 <p><b>Strengths:</b> The website’s layout had pictures and text changing positions, so I moved all the pictures over to the right side of the document for consistency. I rewrote the passages, getting rid of the repetition, unnecessary asides, and grammatical errors.</p>
